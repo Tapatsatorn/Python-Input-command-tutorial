@@ -5,7 +5,7 @@
 **• Setup :**\n
   First, insert your username into line 2, `current_user = ''`                                                           
   Second, insert module name into line 16, parts[0] == '':                        
-  Then, setup your first command in line 20-22
+  Then, setup your first command in line 20-22                                                          
   Finally, modified the `show_help()` to use with your function!
 
 **• To use :**
